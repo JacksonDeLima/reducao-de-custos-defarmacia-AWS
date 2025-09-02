@@ -1,9 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-Mas não tem problema 🙂 — eu posso já te entregar o **conteúdo final** do arquivo aqui mesmo, pronto para você salvar como `.txt` no seu computador. Basta copiar e colar em um editor de texto (Bloco de Notas, VS Code, etc.) e salvar com o nome **`Relatório_AWS_Farmacias.txt`**.
-
----
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 01/09/2025
